@@ -1,0 +1,35 @@
+Έστω ότι έχω 5 tshirts
+1, XS, RED, LINEN
+2, XL, YELLOW, RAYON
+3, XS, RED, POLYESTER
+4, XL, YELLOW, SILK
+5, L, ORANGE, WOOL
+6, L, ORANGE, WOOL
+7, L, ORANGE, POLYESTER
+8, M, BLUE, POLYESTER
+
+SORTED
+3, XS, RED, POLYESTER
+1, XS, RED, LINEN
+5, L, ORANGE, WOOL
+2, XL, YELLOW, RAYON
+4, XL, YELLOW, SILK
+
+φτιάξε 7 buckets
+για κάθε bucket τρέξε το παρακάτω
+    τρέξε για όλα τα tshirt
+        αν το tshirt ανήκει στο bucket πρόσθεσε το στο ArrayList του πίνακα buckets
+σορτάρισε το περιεχόμενο κάθε θέσης bucket κατά τύπο σορταρίσματος        
+
+
+class SortedByMultiProperties {
+    -- SIZE List, [], List[], HashMap, LinkedList, TreeMap
+    -- COLOR
+    -- FABRIC
+}
+
+1. sort (QS, BS, BUS)
+2. based on previous sort place the sorted items
+in correct order in a Collection that implements levels
+
+
